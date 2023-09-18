@@ -13,16 +13,19 @@ No matter what you sell—products or services or you have a company ,it will as
 
 **importance of web scrapping:**
 * Quickly data extraction
+  
    we can web scrape as much data in a day as a traditionalway(not use this techinque) could in a year, given the rate at which data is developing.
   You may continuously execute the web scraper while the server is online. 
 
   * Data reliability
+    
   When using a web scraper, the product you obtain is data. You will use this information to build your business and know the strengths and weaknessas of your competitors and exploit them to your advantage .
 
   * Data Mining is Required to Create Machine Learning Models
     we can collecting a real data to make a machine learning model
 
     **basic steps of web scrapping**
+    
     When you run the code for web scraping, a request is sent to the URL of the page .
     As a response to the request, the server sends the data and allows you to read the HTML or XML page.
     The code then, parses the HTML or XML page, finds the data and extracts it. 
@@ -37,6 +40,7 @@ To extract data using web scraping with python, you need to follow these basic s
 * Store the data in the required format
 
   **thank you**
+  
   **i’m happy with your comment**
   
  
